@@ -90,8 +90,16 @@
     width: 50px;
     margin-top: 20px;
     font-size: 5rem;
-    color: #007bff;
     transition: transform 1s;
+}
+.fa-android{
+    color: #ffa500;
+}
+.fa-globe{
+    color: #ff0000;
+}
+.fa-briefcase{
+    color: #009CB5;
 }
 .service h4{
     height: 35px;
